@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>apitest입니11다</h1>
+<h1>git commit테스트</h1>
 </body>
 </html>
